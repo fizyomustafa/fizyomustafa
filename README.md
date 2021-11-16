@@ -37,7 +37,6 @@ I also work as a FreeLancer 🆓.
 
 ### 🔧 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F273556%2Fjava&psig=AOvVaw1uvfwu5u4plVKsdN6ou-g3&ust=1637176531887000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIii9f7LnfQCFQAAAAAdAAAAABAg" />][Java]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -48,7 +47,6 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 
 <br />
-[java] : https://java.com/
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
@@ -57,7 +55,6 @@ I also work as a FreeLancer 🆓.
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
-
 <br />
 <br />
 
