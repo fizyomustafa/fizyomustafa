@@ -47,6 +47,7 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 
 <br />
+
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
@@ -55,6 +56,7 @@ I also work as a FreeLancer 🆓.
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
+
 <br />
 <br />
 
