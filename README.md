@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a Full Stack Developer 🚀, Writer ✍ and Physiotherapist 👨‍🎓!
+## I'm a Full Stack Developer 🚀 and Writer ✍ !
 - 🔭 I’m currently looking a good chance as Front-end Developer
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
