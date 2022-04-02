@@ -5,8 +5,8 @@
 - 🔭 I’m currently looking a good chance as Front-end Developer or FullStack Developer;
 - ❤️ I'm the best of React JS as Frontend & Pyhton Django as Backend
 - 🌱 I’m currently learning and deploying GITHUB, HEROKU and NETLİFY Projects 😂
-- 👯 I’m looking to collaborate with other developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
+- 👯 I’m looking to collaborate with other developer 👩‍💻 and all designers 🎨
+- 🤔 I’m looking for help jr front-end developer and take the best idea, chance or hiring from seniors
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
 
