@@ -2,9 +2,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Full Stack Developer 🚀 and Writer ✍ !
-- 🔭 I’m currently looking a good chance as Front-end Developer
+- 🔭 I’m currently looking a good chance as Front-end Developer or FullStack Developer;
+- ❤️ I'm the best of React JS as Frontend & Pyhton Django as Backend
 - 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
+- 👯 I’m looking to collaborate with other developer 👩‍💻 and mobile app designers 🎨
 - 🤔 I’m looking for help with Flutter front-end developer
 - 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
